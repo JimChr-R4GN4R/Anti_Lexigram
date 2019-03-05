@@ -1,5 +1,5 @@
 # Codded By JimChr
-# Αφιερωμένο
+# Αφιερωμένο στη Βαλεντίνα!
 
 cd /cygdrive/c/Anti_Lexigram_Project/
 
