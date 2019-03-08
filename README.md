@@ -32,4 +32,4 @@
   <code>./ Anti_Lexigram_Project.sh</code>
   Και τέλος!
   
-  <h1>Για ios σύντομα...</h1>
+  <h1>Για iOS σύντομα...</h1>
