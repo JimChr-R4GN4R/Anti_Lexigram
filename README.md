@@ -1,7 +1,7 @@
 # Anti_Lexigram
 
 <h1>Για Linux</h1>
-Θα χρειαστείτε το package του "lynx" και</h1>
+Θα χρειαστείτε το package του "lynx" που μπορείτε να το κατεβάσετε γράφοντας <code>apt-get install lynx</code> και</h1>
 Θα χρειαστείτε μόνο τα αρχεία:</h3>
 <h3>1)Anti_Lexigram_Project.sh</h3>
 <h3>2)Proxy_List.txt</h3>
