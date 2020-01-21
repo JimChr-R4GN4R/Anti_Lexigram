@@ -5,7 +5,7 @@
 Θα χρειαστείτε το package του "lynx" που μπορείτε να το κατεβάσετε γράφοντας <code>apt-get install lynx</code> και</h1>
 Θα χρειαστείτε μόνο τα αρχεία:</h3>
 <h3>1)Anti_Lexigram_Project.sh</h3>
-<h3>2)Proxy_List.txt</h3>
+<h3>2)Proxy_List.txt</h3>a
 <h3>3)Used_Proxies.txt</h3>
 <h3>4)lynx.cfg (Αν θέλετε να μην σας ρωτάει συνέχεια αν θα κάνετε accept τα cookies, απλά γράψτε στο terminal "whereis lynx" και κάντε paste το αρχείο εκεί όπου βρήσκεται το original).
 </h3>
