@@ -31,6 +31,6 @@
   <code>cd downloads</code>
   <code>cd Anti_Lexigram</code>
   <code>./ Anti_Lexigram_Project.sh</code>
-  Και τέλος!
-  a
+  Και τέλος!a
+ 
   <h1>Για iOS σύντομα...μάλλον...βαριέμαι λίγο το ios...</h1>
